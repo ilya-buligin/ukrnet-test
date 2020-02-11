@@ -47,7 +47,7 @@ export default {
 <style>
 .search {
   overflow: hidden;
-  max-width: 800px;
+  max-width: var(--app-max-width);
   padding: 0 8px;
   margin: 0 auto;
   box-sizing: border-box;
@@ -64,7 +64,7 @@ export default {
   width: 100%;
   padding: 0 16px;
   box-sizing: border-box;
-  border: #ccc 1px solid;
+  border: var(--element-border);
   border-radius: 2px;
   background: #fff;
   font-size: 14px;

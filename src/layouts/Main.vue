@@ -21,7 +21,7 @@ export default {
 }
 
 .main {
-  max-width: 800px;
+  max-width: var(--app-max-width);
   padding: 32px 8px;
   margin: 0 auto;
   box-sizing: border-box;

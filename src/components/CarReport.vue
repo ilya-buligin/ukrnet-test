@@ -42,7 +42,7 @@ export default {
 }
 
 .report__row {
-  border: 1px #ccc solid;
+  border: var(--element-border);
 }
 
 .report__column {

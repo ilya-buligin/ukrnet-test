@@ -15,7 +15,7 @@
   text-align: center;
   margin: 100px 0;
   font-size: 18px;
-  color: #777;
+  color: var(--secondary-text-color);
   font-weight: 400;
 }
 </style>

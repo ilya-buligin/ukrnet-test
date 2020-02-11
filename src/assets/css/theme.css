@@ -1,0 +1,6 @@
+:root {
+  --app-max-width: 800px;
+  --element-border: #ccc 1px solid;
+  --primary-text-color: #000;
+  --secondary-text-color: #777;
+}
