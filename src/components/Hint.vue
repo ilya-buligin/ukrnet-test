@@ -6,6 +6,12 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: "Hint"
+};
+</script>
+
 <style>
 .hint {
   overflow: hidden;
